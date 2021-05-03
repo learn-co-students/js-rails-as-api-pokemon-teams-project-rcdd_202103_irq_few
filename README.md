@@ -294,4 +294,4 @@ DELETE /pokemons/:pokemon_id
   "species":"Weepinbell",
   "trainer_id":1
 }
-```
+``
